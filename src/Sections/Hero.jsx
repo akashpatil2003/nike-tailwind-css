@@ -2,7 +2,7 @@ import { useState } from "react"
 
 import Button from "../Components/Button"
 import ShoeCard from "../Components/ShoeCard"
-import {arrowRight} from "../assets/icons"
+import { arrowRight } from "../assets/icons"
 import { bigShoe1 } from "../assets/images"
 import { statistics, shoes } from "../constants"
 
